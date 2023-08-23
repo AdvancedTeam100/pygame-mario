@@ -1,0 +1,14 @@
+{
+    "python.analysis.extraPaths": [
+        "./Objects",
+        "./Objects/Enemies",
+        "./Objects/Items/SunaDokei",
+        "./Objects/Items/Takarabako",
+        "./Objects/Weapons",
+        "./Objects/Blocks",
+        "./Objects/Enemies/Rabbit",
+        "./Objects/Items",
+        "./Objects/Enemies/Gargoyle",
+        "./Objects/Enemies/Lich"
+    ]
+}
